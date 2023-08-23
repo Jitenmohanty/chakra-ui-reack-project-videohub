@@ -16,7 +16,7 @@ const Footer = () => {
     <Box bgColor={'blackAlpha.900'} minH={'40'} p={'16'} color={'white'}>
       <Stack direction={['column', 'row']}>
         <VStack alignItems={'stretch'} w={'full'} px={4}>
-          <Heading size={'md'} textTransform={'uppercase'}>
+          <Heading size={'md'} textTransform={'uppercase'} textAlign={['center','left']}>
             Subscribe to get Update
           </Heading>
           <HStack borderBottom={'2px solid white'} py={2} widt>
