@@ -23,12 +23,14 @@ import {
             <Heading>Welcome Back...    </Heading>
   
             <Input
+            border={'2px solid grey'}
               placeholder={'Email'}
               type={'email'}
               required
               focusBorderColor={'purple.500'}
             />
             <Input
+            border={'2px solid grey'}
               placeholder={'Password'}
               type={'password'}
               required

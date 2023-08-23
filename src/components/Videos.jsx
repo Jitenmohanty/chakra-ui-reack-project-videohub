@@ -26,7 +26,7 @@ const Videos = () => {
           }}
         ></video>
 
-        <VStack alignItems={'flex-start'} p={'8'} w={'full'} overflowY={'auto'}>
+        <VStack alignItems={'flex-start'} p={'2'} w={'full'} overflowY={'auto'}>
           <Heading>Sample Video 1</Heading>
           <Text>
             This is a sample video for testing and demo. This is called

@@ -26,18 +26,21 @@ import {
             <Avatar alignSelf={'center'} boxSize={'32'} />
   
             <Input
+                border={'2px solid grey'}
               placeholder={'Name'}
               type={'text'}
               required
               focusBorderColor={'purple.500'}
             />
             <Input
+            border={'2px solid grey'}
               placeholder={'Email'}
               type={'email'}
               required
               focusBorderColor={'purple.500'}
             />
             <Input
+            border={'2px solid grey'}
               placeholder={'Password'}
               type={'password'}
               required
