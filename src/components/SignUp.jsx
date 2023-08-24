@@ -1,7 +1,6 @@
 import {
     Avatar,
     Button,
-    Center,
     Container,
     Heading,
     Input,
@@ -13,7 +12,7 @@ import {
   
   const Signup = () => {
     return (
-      <Container maxW={'container.xl'} h={'100vh'} p={'2'} mt={'5'}>
+      <Container maxW={'container.xl'} h={'100vh'} p={'2'} >
         <form>
           <VStack
             alignItems={'stretch'}
